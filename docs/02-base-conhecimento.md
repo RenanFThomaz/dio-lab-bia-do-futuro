@@ -38,8 +38,14 @@ produtos = json.load(open('./data/produtos_financeiros.json'))
 ### Como os dados são usados no prompt?
 > Os dados vão no system prompt? São consultados dinamicamente?
 
-Sim, os prompts remetem-se aos dados fornecidos sempre.
+with open('./data/perfil_investidor.json', encoding='utf-8') as f:
+    perfil = json.load(f)
 
+transacoes = pd.read_csv('./data/transacoes.csv')
+historico = pd.read_csv('./data/historico_atendimento.csv')
+
+with open('./data/produtos_financeiros.json', encoding='utf-8') as f:
+    produtos = json.load(f)
 ---
 
 ## Exemplo de Contexto Montado
