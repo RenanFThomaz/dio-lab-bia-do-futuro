@@ -26,6 +26,14 @@ Nesse primeiro momento estou usando apenas os dados fornecidos préviamente.
 ### Como os dados são carregados?
 > Os dados são importados no começo da aplicação e são incluidos no contexto do prompt
 
+ 
+```python
+perfil = json.load(open('./data/perfil_investidor.json'))
+transacoes - pd.read.csv('./data/historico_atendimento.csv')
+gistorico = pd.read.csv('./data/historico_atendimento.csv')
+produtos = json.load(open('./data/produtos_financeiros.json'))
+```
+
 
 ### Como os dados são usados no prompt?
 > Os dados vão no system prompt? São consultados dinamicamente?
