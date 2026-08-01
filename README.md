@@ -1,4 +1,4 @@
-# 🤖 Agente Financeiro Inteligente com IA Generativa
+#  Primo Bot, o seu educador financeiro
 
 ## Contexto
 
