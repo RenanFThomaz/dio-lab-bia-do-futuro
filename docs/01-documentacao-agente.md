@@ -10,12 +10,12 @@ Será um educador financeiro para novos investidores.
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
-O agente indicará várias possibilidades de investimento sem indicar um específico, apenas orientando ao usuário os melhores investimentos segundo o perfil do usuário.
+O agente demonstrará várias possibilidades de investimento sem indicar um específico, apenas demonstrando ao usuário os melhores investimentos segundo o perfil do usuário.
 
 ### Público-Alvo
 > Quem vai usar esse agente?
 
-Todas as pesssoas que tenham interesse em aprender sobre investimentos
+Todas as pessoas que tenham interesse em aprender sobre investimentos.
 
 ---
 
