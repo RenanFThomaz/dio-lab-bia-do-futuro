@@ -1,6 +1,6 @@
 # 🤖 Primo Bot — Agente Financeiro Inteligente com IA Generativa
 
-> Projeto desenvolvido por [**Renan F. Thomaz**](https://github.com/RenanFThomaz) como parte do lab da [Digital Innovation One (DIO)](https://github.com/digitalinnovationone/dio-lab-bia-do-futuro).
+> Projeto desenvolvido por [**Renan F. Thomaz**](https://github.com/RenanFThomaz) como parte do BootCamp Bradesco lab da [Digital Innovation One (DIO)](https://github.com/digitalinnovationone/dio-lab-bia-do-futuro).
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Licença](https://img.shields.io/badge/licença-MIT-blue)
