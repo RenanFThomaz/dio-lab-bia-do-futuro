@@ -96,11 +96,3 @@ Onde devo investir meu dinheiro?
 Para fazer uma recomendação adequada, preciso entender melhor seu perfil. Você já preencheu seu questionário de perfil de investidor? 
 ```
 
----
-
-## Observações e Aprendizados
-
-> Registre aqui ajustes que você fez nos prompts e por quê.
-
-- Coloquei um campo de analogias entre investimentos para facilitar o entendimento entre uma opção e outra.
-
