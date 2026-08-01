@@ -28,16 +28,6 @@ Nesse primeiro momento estou usando apenas os dados fornecidos préviamente.
 
  
 ```python
-perfil = json.load(open('./data/perfil_investidor.json'))
-transacoes - pd.read.csv('./data/historico_atendimento.csv')
-gistorico = pd.read.csv('./data/historico_atendimento.csv')
-produtos = json.load(open('./data/produtos_financeiros.json'))
-```
-
-
-### Como os dados são usados no prompt?
-> Os dados vão no system prompt? São consultados dinamicamente?
-
 with open('./data/perfil_investidor.json', encoding='utf-8') as f:
     perfil = json.load(f)
 
@@ -46,6 +36,17 @@ historico = pd.read_csv('./data/historico_atendimento.csv')
 
 with open('./data/produtos_financeiros.json', encoding='utf-8') as f:
     produtos = json.load(f)
+```
+
+
+### Como os dados são usados no prompt?
+> Os dados vão no system prompt? São consultados dinamicamente?
+
+```text
+Dados do cliente:
+Perfil do cliente:
+Transações do cliente:
+Produtos financeiros para ensino:
 ---
 
 ## Exemplo de Contexto Montado
