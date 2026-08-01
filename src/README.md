@@ -16,8 +16,8 @@ src/
 
 ```
 streamlit
-openai
-python-dotenv
+llama3.2
+python
 ```
 
 ## Como Rodar
