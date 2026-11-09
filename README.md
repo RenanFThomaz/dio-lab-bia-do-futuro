@@ -45,12 +45,12 @@ Os assistentes virtuais no setor financeiro estão deixando de ser simples chatb
 
 ## 🚀 Entregas do desafio
 
-- [ ] **Documentação do agente** — caso de uso, persona, arquitetura e estratégia anti-alucinação (`docs/01-documentacao-agente.md`)
-- [ ] **Base de conhecimento** — uso dos dados mockados de `data/` (`docs/02-base-conhecimento.md`)
-- [ ] **Prompts do agente** — system prompt, exemplos de interação e tratamento de edge cases (`docs/03-prompts.md`)
-- [ ] **Aplicação funcional** — protótipo interativo (`src/app.py`)
-- [ ] **Avaliação e métricas** — precisão, taxa de respostas seguras e coerência (`docs/04-metricas.md`)
-- [ ] **Pitch** — apresentação de 3 minutos do projeto (`docs/05-pitch.md`)
+- [X] **Documentação do agente** — caso de uso, persona, arquitetura e estratégia anti-alucinação (`docs/01-documentacao-agente.md`)
+- [X] **Base de conhecimento** — uso dos dados mockados de `data/` (`docs/02-base-conhecimento.md`)
+- [X] **Prompts do agente** — system prompt, exemplos de interação e tratamento de edge cases (`docs/03-prompts.md`)
+- [X] **Aplicação funcional** — protótipo interativo (`src/app.py`)
+- [X] **Avaliação e métricas** — precisão, taxa de respostas seguras e coerência (`docs/04-metricas.md`)
+- [X] **Pitch** — apresentação de 3 minutos do projeto (`docs/05-pitch.md`)
 
 ## 🛠️ Ferramentas utilizadas
 
